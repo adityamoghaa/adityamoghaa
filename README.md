@@ -9,10 +9,10 @@ I'm Aditya Mogha, a tech enthusiast pursuing BTech in Computer Science Engineeri
 - Exploring cloud-native architecture and deployment strategies
 
 ## 💻 Tech Stack
-- **Languages**: Python, Java, C++, C, R, SQL, Kotlin, Nix
+- **Languages**: Python, Java, C++, C, R, Kotlin, Nix
 - **Frameworks**: Anaconda, Bootstrap, Django, Flask, Flutter, Spring, Wordpress, Pandas, Numpy, Matplotlib, Scikit-learn
 - **Tools & Technologies**: Docker, Kubernetes, AWS, GoogleCloud, Azure, Git, TensorFlow, MLFlow, Pytorch, Linux
--- **Databases**: MySQL, Postgres, SQLite
+- **Databases**: MySQL, Postgres, SQLite
 - **Areas of Interest**: Machine Learning, Data Science, Cloud Computing, DevOps, CyberSecurity
 
 ## 🌱 Current Learning Path
