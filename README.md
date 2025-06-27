@@ -21,5 +21,10 @@ Diving deeper into advanced ML algorithms, cloud infrastructure automation, and 
 ## 🚀 Goals
 Creating technology that makes a positive impact while continually expanding my knowledge in emerging tech fields like IoT and quantum computing.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adityamoghaa&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adityamoghaa&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamoghaa&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🤝 Let's Connect!
 I'm passionate about collaborating with like-minded individuals on innovative projects. Feel free to explore my repositories and reach out for potential collaborations!
