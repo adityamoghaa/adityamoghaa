@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-Building intelligent systems with **Python** and **Machine Learning**
+Building intelligent systems with **Python**, **Machine Learning** **&** **Ai**
 
 ## What I'm Working On
 - 🤖 Multi-agent AI systems with CrewAI
