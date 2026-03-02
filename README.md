@@ -10,11 +10,11 @@ Currently expanding expertise in RAG pipelines, agentic AI systems, and cloud ML
 
 ## Core Competencies
 
-**AI/ML Engineering:** TensorFlow • PyTorch • Scikit-learn • Transformers • Production ML  
-**Generative AI:** LangChain • CrewAI • RAG Pipelines • LLM Fine-tuning • Prompt Engineering  
-**Development:** Python • FastAPI • Flask • REST APIs • Microservices • System Design  
-**Data Engineering:** SQL • PostgreSQL • MongoDB • Vector Databases • ETL Pipelines  
-**Cloud & DevOps:** AWS • Google Cloud • Docker • Linux • Git • MLOps
+**AI/ML Engineering:** `TensorFlow` • `PyTorch` • `Scikit-learn` • `Transformers` • `Production ML`  
+**Generative AI:** `LangChain` • `CrewAI` • `RAG Pipelines` • `LLM Fine-tuning` • `Prompt Engineering`  
+**Development:** `Python` • `FastAPI` • `Flask` • `REST APIs` • `Microservices` • `System Design`  
+**Data Engineering:** `SQL` • `PostgreSQL` • `MongoDB` • `Vector Databases` • `ETL Pipelines`  
+**Cloud & DevOps:** `AWS` • `Google Cloud` • `Docker` • `Linux` • `Git` • `MLOps`
 
 ---
 
@@ -45,12 +45,8 @@ Building expertise in modern AI technologies while maintaining strong ML fundame
 
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/adityamoghaa)
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://adityamoghaa.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/adityamoghaa) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/adityamoghaa/)
 [<img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" />](https://stackoverflow.com/users/29502994/aditya-mogha)
 
 </p>
-
-*Building production-ready AI systems that scale*
-
+`Building production-ready AI systems that scale`
 </div>
