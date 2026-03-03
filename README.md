@@ -1,10 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=ADITYA%20MOGHA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Engineer%20•%20BTech%20CS%203rd%20Year&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=150&section=header&text=ADITYA%20MOGHA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Engineer%20•%20BTech%20CS%203rd&descSize=18&descAlignY=60" width="100%"/>
 </div>
 
 ---
 
 Machine Learning Engineer specializing in **Generative AI**, **NLP**, and **Production ML Systems**. I build scalable AI solutions that deliver measurable business impact—from multi-agent platforms achieving 93% user satisfaction to cybersecurity automation tools streamlining enterprise operations.
+
 Currently expanding expertise in RAG pipelines, agentic AI systems, and cloud ML deployment while seeking **AI/ML Engineering** opportunities.
 
 ---
@@ -47,9 +48,9 @@ Building expertise in modern AI technologies while maintaining strong ML fundame
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/adityamoghaa)
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://adityamoghaa.github.io)
 [<img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" />](https://stackoverflow.com/users/29502994/aditya-mogha)
-
 </p>
 
 ---
-
 `Building production-ready AI systems that scale`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
