@@ -54,3 +54,5 @@ Building expertise in modern AI technologies while maintaining strong ML fundame
 `Building production-ready AI systems that scale`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+![Contribution Shooter](game.gif)
