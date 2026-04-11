@@ -45,9 +45,12 @@ Building expertise in modern AI technologies while maintaining strong ML fundame
 ## Connect with Me!
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/adityamoghaa)
+
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/adityamoghaa)
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://adityamoghaa.github.io)
-[<img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" />](https://stackoverflow.com/users/29502994/aditya-mogha)
+[<img src="https://img.shields.io/badge/x-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://x.com/adityamoghaa)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/adityamoghaa)
+
 </p>
 
 ---
